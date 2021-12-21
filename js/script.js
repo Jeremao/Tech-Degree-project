@@ -28,7 +28,7 @@ const quotes = [ // Array of objects
   year: 1966
 },
 {
-  quote: 'Life is like a box of chocolates. You never know what you’re going to get.',
+  quote: "Life is like a box of chocolates. You never know what you're going to get.",
   source: 'Forest Gump',
   year: 1994
 }
